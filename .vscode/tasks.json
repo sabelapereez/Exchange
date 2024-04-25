@@ -7,7 +7,7 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "${file}",
+                "main.c", "dynamicvector.c", "exchange.c", 
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],

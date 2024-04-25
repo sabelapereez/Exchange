@@ -13,4 +13,7 @@
  */
 int iexchange(int x, vectorD values, vectorD solution);
 
+//Write definition
+int fexchange(int x, vectorD values, vectorD solution, vectorD stock);
+
 #endif /*EXCHANGE_H*/
