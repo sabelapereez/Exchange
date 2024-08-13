@@ -1,7 +1,7 @@
 #ifndef EXCHANGE_H
 #define EXCHANGE_H
 
-#include "dynamicvector.h"
+#include "../Vector_Library/dynamicvector.h"
 
 /**
  * Returns change in infinite coins mode.

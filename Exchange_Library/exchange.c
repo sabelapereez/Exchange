@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "dynamicvector.h"
+#include "../Vector_Library/dynamicvector.h"
 
 /*Returns change in infinite coins mode*/
 int iexchange(int x, vectorD values, vectorD solution){
