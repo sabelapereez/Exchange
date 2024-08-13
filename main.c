@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "dynamicvector.h"
-#include "exchange.h"
+#include "./Vector_Library/dynamicvector.h"
+#include "./Exchange_Library/exchange.h"
 
 int main(int argc, char** argv){
     char mode, currency[20], nstock[100];
